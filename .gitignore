@@ -1,3 +1,10 @@
+# export data
 export/*
+!export/LP-ConCon-Test-RubberRingConnection.stl
+!export/LP-ConCon-Test-RubberRingConnection.gcode
+!export/LP-ConstructionConnector-4Way-up-down-60deg.stl
+!export/LP-ConstructionConnector-4Way-up-down-60deg.gcode
+
+# backup data
 *.FCBak
 *.FCStd1
